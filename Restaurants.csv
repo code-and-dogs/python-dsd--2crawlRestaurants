@@ -1,0 +1,91 @@
+restaurant,street,zip,city,country,lat,long
+McDonalds,Alexanderplatz 1,10178,Berlin,Germany
+McDonalds,Europaplatz 1,10557,Berlin,Germany
+McDonalds,Walther-Schreiber-Platz 1,12161,Berlin,Germany
+McDonalds,Hansastra�e 1,13053,Berlin,Germany
+McDonalds,Hanne-Sobek-Platz 1,13357,Berlin,Germany
+McDonalds,Grunerstra�e 20,10179,Berlin,Germany
+McDonalds,Osloer Stra�e,13359,Berlin,Germany
+McDonalds,Schnellerstra�e 21,12439,Berlin,Germany
+McDonalds,Alboinstra�e 4,12103,Berlin,Germany
+McDonalds,Weitlingstra�e 22,10317,Berlin,Germany
+McDonalds,Gro�beerenstra�e 22,12107,Berlin,Germany
+McDonalds,Wrangelstra�e 35,10997,Berlin,Germany
+McDonalds,Teltower Damm 35,14169,Berlin,Germany
+McDonalds,Sonntagsstra�e 37,10245,Berlin,Germany
+McDonalds,Kurt-Schumacher-Damm 38,13405,Berlin,Germany
+McDonalds,Prenzlauer Promenade 45,13089,Berlin,Germany
+McDonalds,Wilmersdorfer Stra�e 46,10629,Berlin,Germany
+McDonalds,Wendenschlo�stra�e 2,12559,Berlin,Germany
+McDonalds,Charlottenburger Chaussee 49,13597,Berlin,Germany
+McDonalds,Am Borsigturm 2,13507,Berlin,Germany
+McDonalds,Am Ostbahnhof 9,10243,Berlin,Germany
+McDonalds,Bitterfelder Stra�e 9,12681,Berlin,Germany
+McDonalds,Alt-Mahlsdorf 60,12623,Berlin,Germany
+McDonalds,Alt-Friedrichsfelde 61,10315,Berlin,Germany
+McDonalds,Werner-Vo�-Damm 62,12101,Berlin,Germany
+McDonalds,Karl-Marx-Stra�e 66,12043,Berlin,Germany
+McDonalds,Greifswalder Stra�e 80,10405,Berlin,Germany
+McDonalds,Klosterstra�e 3,13581,Berlin,Germany
+McDonalds,Saalestra�e 83,12055,Berlin,Germany
+McDonalds,Markstra�e 16,13409,Berlin,Germany
+McDonalds,Rudower Stra�e 100,12351,Berlin,Germany
+McDonalds,Frankfurter Allee 117,10247,Berlin,Germany
+McDonalds,Schlo�stra�e 117,12163,Berlin,Germany
+McDonalds,Clayallee 121,14195,Berlin,Germany
+McDonalds,Friedrichstra�e 207,10969,Berlin,Germany
+McDonalds,Sonnenallee 254,12057,Berlin,Germany
+McDonalds,Johannisthaler Chaussee 295,12353,Berlin,Germany
+McDonalds,Heerstra�e 666,13591,Berlin,Germany
+McDonalds,Leipziger Platz 12-13,10117,Berlin,Germany
+McDonalds,Hermannplatz 2-3,10967,Berlin,Germany
+McDonalds,Buckower Chaussee 100-102,12277,Berlin,Germany
+McDonalds,Kantstra�e 111a,10627,Berlin,Germany
+McDonalds,Osdorfer Str. 125a,12207,Berlin,Germany
+McDonalds,Friedrichstra�e 141,10117,Berlin,Germany
+McDonalds,Marzahner Promenade 1a,12679,Berlin,Germany
+McDonalds,Adlergestell 289a,12489,Berlin,Germany
+McDonalds,Schlo�stra�e 34-36,12163,Berlin,Germany
+McDonalds,Am Juliusturm 40-46,13599,Berlin,Germany
+McDonalds,Mecklenburgische Stra�e 65-68,14197,Berlin,Germany
+McDonalds,Hardenbergplatz 11,10623,Berlin,Germany
+McDonalds,Tauentzienstra�e 9-12,10789,Berlin,Germany
+Subway,Am Borsigturm 2,13507,Berlin,Germany
+Subway,Badstra�e 4,13357,Berlin,Germany
+Subway,Behrenstra�e 47,10117,Berlin,Germany
+Subway,Brunnenstrasse 53,13355,Berlin,Germany
+Subway,Chausseestra�e 22,10115,Berlin,Germany
+Subway,Europaplatz 1,10557,Berlin,Germany
+Subway,Frankfurter Allee 113,10365,Berlin,Germany
+Subway,Frankfurter Allee 41,10247,Berlin,Germany
+Subway,Grunerstra�e 20,10179,Berlin,Germany
+Subway,Hermannplatz,10967,Berlin,Germany
+Subway,Kurf�rstendamm 180,10707,Berlin,Germany
+Subway,Marzahner Promenade 1A,12679,Berlin,Germany
+Subway,Nonnendammallee 119,13629,Berlin,Germany
+Subway,Ostbahnhof 5-7,10243,Berlin,Germany
+Subway,Potsdamer Stra�e 11,14163,Berlin,Germany
+Subway,Rudower Chaussee 12,12489,Berlin,Germany
+Subway,Sch�nhauser Allee 78,10439,Berlin,Germany
+Subway,Seegefelder Stra�e 1,13597,Berlin,Germany
+Subway,Spandauer Stra�e 3,10178,Berlin,Germany
+Subway,Teltower Damm 43-46,14167,Berlin,Germany
+Subway,Tempelhofer Damm 227,12099,Berlin,Germany
+Subway,Walther-Schreiber-Platz 1,12161,Berlin,Germany
+Subway,Zur Rinderauktionshalle 1,10247,Berlin,Germany
+Starbucks,Am Bahnhof 40,57072,Siegen,Germany
+Starbucks,Neue Promenade 3,10178,Berlin,Germany
+Starbucks,Dircksenstrasse 2,10179,Berlin,Germany
+Starbucks,Alexanderplatz 2,10178,Berlin,Germany
+Starbucks,Grunerstrasse 20,10719,Berlin,Germany
+Starbucks,Friedrichstrasse 96,10117,Berlin,Germany
+Starbucks,Pariser Platz 4a,10117,Berlin,Germany
+Starbucks,Am Ostbahnhof,10559,Berlin,Germany
+Starbucks,Europaplatz 1,10557,Berlin,Germany
+Starbucks,Warschauer Strasse,10243,Berlin,Germany
+Starbucks,Hardenbergplatz 11,10623,Berlin,Germany
+Starbucks,Hadenbergplatz 11,10623,Berlin,Germany
+Starbucks,Kurfuerstendamm  231,10719,Berlin,Germany
+Starbucks,Joachimsthaler Stra�e 1-4,10623,Berlin,Germany
+Starbucks,Kurfuerstendamm 61,10707,Berlin,Germany
+Starbucks,Melli-Beese-Ring 1 Terminal 1 Ebene E2 Abflug,12521,Berlin,Germany
