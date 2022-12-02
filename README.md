@@ -2,4 +2,4 @@
 ## #2 - Python -  Crawling Restaurant Data
 
 You can find the complete walkthrough on Medium.com:
-ENTER LINK
+https://medium.com/python-point/python-crawling-restaurant-data-ab395d121247
